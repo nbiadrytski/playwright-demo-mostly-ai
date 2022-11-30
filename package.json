@@ -1,0 +1,19 @@
+{
+  "name": "playwright-demo-mostly-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "chromium": "playwright test --project=chromium",
+    "all": "playwright test"
+  },
+  "keywords": [],
+  "author": "Mikalai Biadrytski",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  },
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
