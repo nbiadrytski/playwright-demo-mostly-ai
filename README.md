@@ -2,7 +2,7 @@
 This project uses Playwright tool + Typescript
 
 Install the dependencies:
-1. Clone the repo:```git@github.com:nbiadrytski/playwright-demo-mostly-ai.git```
+1. Clone the repo:```gti clone git@github.com:nbiadrytski/playwright-demo-mostly-ai.git```
 2. Navigate to the project directory: ```cd playwright-demo-mostly-ai```
 3. Install dependencies: ```npm install```
 
